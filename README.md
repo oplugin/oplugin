@@ -1,16 +1,17 @@
-## Hi there 👋
+## Java Backend Developer (Middle)
 
-<!--
-**oplugin/oplugin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java 17 | Spring Boot | Hibernate | REST | SQL
 
-Here are some ideas to get you started:
+Опыт разработки backend-систем, ERP-интеграций и миграции данных.
+Интересуюсь enterprise-разработкой, архитектурой и чистым кодом.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Java 17
+- Spring Boot, Spring Data JPA, Hibernate
+- MS SQL, PostgreSQL
+- REST API
+- Git, Maven
+
+### Projects
+- Contract Migration System (Spring Boot, MS SQL)
+- Reporting & Data Automation Tools
