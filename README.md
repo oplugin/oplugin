@@ -1,4 +1,4 @@
-## Java Backend Developer (Middle)
+## Java Backend Developer
 
 Java 17 | Spring Boot | Hibernate | REST | SQL
 
